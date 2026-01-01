@@ -1,0 +1,7 @@
+{
+  "name": "RapCinematic AI",
+  "description": "An advanced AI-powered app that analyzes rap videos and enhances them with high-quality, cinematic background music and soundscapes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
